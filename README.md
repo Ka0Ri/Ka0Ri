@@ -1,9 +1,11 @@
 # Hi there, I'm Vu  ฅ^•ﻌ•^ฅ
 
+<img src=https://t3.ftcdn.net/jpg/04/94/52/46/360_F_494524607_aDLrF9Da40LIz1YBH4THqxuFgqHL40Ay.jpg />
+
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ka0Ri/Ka0Ri)](https://github.com/Ka0Ri/Ka0Ri)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dang-thanh-vu-bb784b175/)](https://www.linkedin.com/in/dang-thanh-vu-bb784b175)
-[![Linkedin Badge](https://img.shields.io/badge/-Scholar-blue?style=flat-square&logo=scholar&logoColor=white&link=https://scholar.google.com/citations?user=-ahy96sAAAAJ&hl=en)](https://www.linkedin.com/in/dang-thanh-vu-bb784b175)
+[![Linkedin Badge](https://img.shields.io/badge/-Scholar-blue?style=flat-square&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=-ahy96sAAAAJ&hl=en)](https://scholar.google.com/citations?user=-ahy96sAAAAJ&hl=en)
 
 
 ### /ᐠﹷ ‸ ﹷ ᐟ\ﾉ  A Few Quick Facts
@@ -26,10 +28,9 @@ I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/373553/docker.svg"></code>
-
+<code><img height="30" src="https://www.svgrepo.com//show/315258/notion.svg"></code>
 
 ### 🐾🐈‍⬛ Quick Stats
 
