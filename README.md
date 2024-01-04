@@ -2,14 +2,13 @@
 
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)]([https://github.com/Defcon27/](https://github.com/Ka0Ri/)) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=[https://github.com/Defcon27/](https://github.com/Ka0Ri/Ka0Ri))](https://github.com/Ka0Ri/Ka0Ri)
 
 ### ⚡️ A Few Quick Facts
 - 🔭 I’m currently working at AISeed (a startup in South Korea) as a Reseacher
 - 🌱 I’m currently learning AI projects related to CV, NLP, ML/DL
 - 👯 I’m looking to collaborate on anyone who interests in AI
-- 💬 Ask me about Python, ML, DL, CV, NLP
+- 💬 Ask me about Python, 📊 ML, DL, 🖼 CV, NLP
 
 
 ### A little about me
