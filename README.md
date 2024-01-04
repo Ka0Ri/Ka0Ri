@@ -22,7 +22,7 @@ I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png](https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png)"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></code>
 
 <!--
 **Ka0Ri/Ka0Ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
