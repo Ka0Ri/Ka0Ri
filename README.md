@@ -4,14 +4,14 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ka0Ri/Ka0Ri)](https://github.com/Ka0Ri/Ka0Ri)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dang-thanh-vu-bb784b175/)](https://www.linkedin.com/in/dang-thanh-vu-bb784b175)
 
-### ⚡️ A Few Quick Facts
+### /ᐠ - ˕ -マ⚡️ A Few Quick Facts
 - 🔭 I’m currently working at AISeed (a startup in South Korea) as a Reseacher
 - 🌱 I’m currently learning AI projects related to CV, NLP, ML/DL
 - 👯 I’m looking to collaborate on anyone who interests in AI
 - 💬 Ask me about Python, 📊 ML, DL, 🖼 CV, NLP
 
 
-### A little about me /ᐠ - ˕ -マ
+### /ᐠ. .ᐟ\ฅ A little about me
 I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu.ac.kr/IndexMain.aspx)** majoring in Computer Science. I love working on AI and learning about new teach, passionate about delivering AI solutions to improve living quality 🤗. <br/><br/>
 
 ### ⚙️ Some Tool and Tech I use
