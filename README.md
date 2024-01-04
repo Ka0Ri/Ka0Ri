@@ -17,7 +17,7 @@
 
 
 ### /ᐠ. .ᐟ\ฅ  A little about me
-I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu.ac.kr/IndexMain.aspx)** majoring in Computer Science. I love working on AI and learning about new teach, passionate about delivering AI solutions to improve living quality 🤗. 
+I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu.ac.kr/IndexMain.aspx)** majoring in Computer Science. I love working on AI and learning about new tech, passionate about delivering AI solutions to improve living quality 🤗. 
 
 ###  ^._.^ฅ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
@@ -33,6 +33,8 @@ I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu
 <code><img height="30" src="https://www.svgrepo.com/show/373553/docker.svg"></code>
 <code><img height="30" src="https://www.svgrepo.com//show/315258/notion.svg"></code>
 <code><img height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"></code>
+<code><img height="30" src="https://static.cdnlogo.com/logos/c/18/ChatGPT_800x800.png"></code>
+
 
 ### 🐾🐈‍⬛ Quick Stats
 
