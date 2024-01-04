@@ -1,5 +1,4 @@
-# Hi there, I'm Vu 👋
-
+# Hi there, I'm Vu  ฅ^•ﻌ•^ฅ
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ka0Ri/Ka0Ri)](https://github.com/Ka0Ri/Ka0Ri)
