@@ -25,6 +25,9 @@ I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png"></code>
 
+### 🚀 Quick Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ka0Ri&show_icons=false&theme=synthwave)
 
 
 <!--
