@@ -11,7 +11,7 @@
 - 💬 Ask me about Python, 📊 ML, DL, 🖼 CV, NLP
 
 
-### A little about me 
+### A little about me /ᐠ - ˕ -マ
 I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu.ac.kr/IndexMain.aspx)** majoring in Computer Science. I love working on AI and learning about new teach, passionate about delivering AI solutions to improve living quality 🤗. <br/><br/>
 
 ### ⚙️ Some Tool and Tech I use
