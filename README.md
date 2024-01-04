@@ -3,8 +3,7 @@
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ka0Ri/Ka0Ri)](https://github.com/Ka0Ri/Ka0Ri)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dang-thanh-vu-bb784b175)]
-(https://www.linkedin.com/in/dang-thanh-vu-bb784b175)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dang-thanh-vu-bb784b175)](https://www.linkedin.com/in/dang-thanh-vu-bb784b175)
 
 ### ⚡️ A Few Quick Facts
 - 🔭 I’m currently working at AISeed (a startup in South Korea) as a Reseacher
