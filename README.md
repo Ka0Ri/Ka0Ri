@@ -1,4 +1,4 @@
-# Hi there, I'm Vu  ฅ^•ﻌ•^ฅ
+# Hi ฅ^•ﻌ•^ฅ
 
 <img src=https://t3.ftcdn.net/jpg/04/94/52/46/360_F_494524607_aDLrF9Da40LIz1YBH4THqxuFgqHL40Ay.jpg />
 
