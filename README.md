@@ -18,7 +18,7 @@
 ### /ᐠ. .ᐟ\ฅ  A little about me
 I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu.ac.kr/IndexMain.aspx)** majoring in Computer Science. I love working on AI and learning about new tech, passionate about delivering AI solutions to improve living quality 🤗. 
 
-###  ^._.^ฅ Some Tool and Tech I use
+###  ^._.^ฅ Some Tools and Techs I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></code>
