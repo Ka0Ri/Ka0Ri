@@ -23,14 +23,14 @@ I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></code>
+<code><img height="30" src="https://www.svgrepo.com//show/315258/notion.svg"></code>
+<code><img height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"></code>
+<code><img height="30" src="https://static.cdnlogo.com/logos/c/18/ChatGPT_800x800.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/98025367?s=200&v="></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/51063788?s=48&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/373553/docker.svg"></code>
-<code><img height="30" src="https://www.svgrepo.com//show/315258/notion.svg"></code>
-<code><img height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"></code>
-<code><img height="30" src="https://static.cdnlogo.com/logos/c/18/ChatGPT_800x800.png"></code>
+
