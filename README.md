@@ -1,6 +1,6 @@
 # Hi ฅ^•ﻌ•^ฅ
 
-<img src=https://t3.ftcdn.net/jpg/04/94/52/46/360_F_494524607_aDLrF9Da40LIz1YBH4THqxuFgqHL40Ay.jpg />
+<img height="200" src=https://t3.ftcdn.net/jpg/04/94/52/46/360_F_494524607_aDLrF9Da40LIz1YBH4THqxuFgqHL40Ay.jpg />
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ka0Ri/Ka0Ri)](https://github.com/Ka0Ri/Ka0Ri)
@@ -8,14 +8,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Scholar-blue?style=flat-square&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=-ahy96sAAAAJ&hl=en)](https://scholar.google.com/citations?user=-ahy96sAAAAJ&hl=en)
 
 
-### /ᐠﹷ ‸ ﹷ ᐟ\ﾉ  A Few Quick Facts
+### /ᐠﹷ ‸ ﹷ ᐟ\ﾉ  Quick Facts
 - 💼 I’m currently working at AISeed (a startup in South Korea) as a Reseacher
 - 💻 currently learning AI related to CV, NLP, ML/DL
 - 🤝 I’m looking to collaborate with anyone who interests in AI
 - ⚡ I love reading paper on arxiv and medium.
 
 
-### /ᐠ. .ᐟ\ฅ  A little about me
+### /ᐠ. .ᐟ\ฅ About me
 I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu.ac.kr/IndexMain.aspx)** majoring in Computer Science. I love working on AI and learning about new tech, passionate about delivering AI solutions to improve living quality 🤗. 
 
 ###  ^._.^ฅ Some Tools and Techs I use
