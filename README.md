@@ -9,10 +9,11 @@
 
 
 ### /ᐠﹷ ‸ ﹷ ᐟ\ﾉ  Quick Facts
-- 💼 I’m working at (AISeed)[https://www.linkedin.com/company/aiseedcorp/] (a startup in South Korea) as a Reseacher
+- 💼 I’m working at [AISeed](https://www.linkedin.com/company/aiseedcorp/) in South Korea
 - 💻 currently learning CV, NLP, ML/DL
 - 🤝 I’m looking to collaborate with anyone who interests in AI
-- ⚡ I love reading paper on arxiv and medium.
+- ⚡ I love reading articles on arxiv and medium.
+- 📃 I keep updated by [paperswithcode](https://paperswithcode.com/)
 
 
 ### /ᐠ. .ᐟ\ฅ About me
