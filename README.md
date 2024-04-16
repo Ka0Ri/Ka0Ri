@@ -9,10 +9,9 @@
 
 
 ### /ᐠﹷ ‸ ﹷ ᐟ\ﾉ  A Few Quick Facts
-- 🔭 I’m currently working at AISeed (a startup in South Korea) as a Reseacher
-- 🌱 I’m currently learning AI related to CV, NLP, ML/DL
-- 👯 I’m looking to collaborate with anyone who interests in AI
-- 💬 Ask me about Python, ML/DL, CV, NLP
+- 💼 I’m currently working at AISeed (a startup in South Korea) as a Reseacher
+- 💻 currently learning AI related to CV, NLP, ML/DL
+- 🤝 I’m looking to collaborate with anyone who interests in AI
 - ⚡ I love reading paper on arxiv and medium.
 
 
@@ -25,6 +24,7 @@ I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu
 <code><img height="30" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/98025367?s=200&v="></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/51063788?s=48&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
@@ -34,24 +34,3 @@ I'm a **Grad Student🎓 [Chonnam National University](https://international.jnu
 <code><img height="30" src="https://www.svgrepo.com//show/315258/notion.svg"></code>
 <code><img height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"></code>
 <code><img height="30" src="https://static.cdnlogo.com/logos/c/18/ChatGPT_800x800.png"></code>
-
-
-### 🐾🐈‍⬛ Quick Stats
-
-![Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ka0Ri&show_icons=false&theme=synthwave)
-
-
-<!--
-**Ka0Ri/Ka0Ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
