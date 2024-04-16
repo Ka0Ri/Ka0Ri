@@ -9,8 +9,8 @@
 
 
 ### /ᐠﹷ ‸ ﹷ ᐟ\ﾉ  Quick Facts
-- 💼 I’m currently working at AISeed (a startup in South Korea) as a Reseacher
-- 💻 currently learning AI related to CV, NLP, ML/DL
+- 💼 I’m working at (AISeed)[https://www.linkedin.com/company/aiseedcorp/] (a startup in South Korea) as a Reseacher
+- 💻 currently learning CV, NLP, ML/DL
 - 🤝 I’m looking to collaborate with anyone who interests in AI
 - ⚡ I love reading paper on arxiv and medium.
 
