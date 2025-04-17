@@ -23,6 +23,7 @@ I'm a **Grad Student🎓 at [Chonnam National University](https://international.
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></code>
+<code><img height="3o" src= "https://en.m.wikipedia.org/wiki/File:2023_Obsidian_logo.svg">
 <code><img height="30" src="https://www.svgrepo.com//show/315258/notion.svg"></code>
 <code><img height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"></code>
 <code><img height="30" src="https://static.cdnlogo.com/logos/c/18/ChatGPT_800x800.png"></code>
