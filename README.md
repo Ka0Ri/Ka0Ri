@@ -1,6 +1,6 @@
 # Hi ฅ^•ﻌ•^ฅ
 
-<img height="200" src=https://t3.ftcdn.net/jpg/04/94/52/46/360_F_494524607_aDLrF9Da40LIz1YBH4THqxuFgqHL40Ay.jpg />
+
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ka0Ri/Ka0Ri)](https://github.com/Ka0Ri/Ka0Ri)
