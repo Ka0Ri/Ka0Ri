@@ -12,7 +12,7 @@
 - 💼 I’m working at [AISeed](https://www.linkedin.com/company/aiseedcorp/) in South Korea
 - 🤝 I’m opening to collaborate with anyone who interests in AI
 - 📃 I love reading articles on arxiv and news on linkedIn.
-- 💻 I love working on AI and learning about new tech, passionate about delivering AI solutions to improve living quality
+- 💻 I love working on AI and learning about new tech
 
 ### /ᐠ. .ᐟ\ฅ Some Techs I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
