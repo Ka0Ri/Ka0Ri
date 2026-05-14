@@ -19,7 +19,6 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Ollama-logo.svg" height="30"></code>
 <code><img height="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"></code>
 <code><img height="30" src="https://static.cdnlogo.com/logos/c/18/ChatGPT_800x800.png"></code>
