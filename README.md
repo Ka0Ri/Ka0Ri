@@ -1,4 +1,4 @@
-# Hi, I'm Vu ฅ^•ﻌ•^ฅ
+# Hi, My name is DANG THAH VU
 
 
 
