@@ -15,3 +15,4 @@
 - 💻 I love working on AI and learning about new tech
 
 
+Email to me at: dtvu@aiseed.kr or dtvu1707@gmail.com
