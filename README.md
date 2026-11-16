@@ -2,9 +2,10 @@
 
 ### /ᐠﹷ ‸ ﹷ ᐟ\ﾉ  Quick Facts
 - 💼 I’m working at [AISeed](https://www.linkedin.com/company/aiseedcorp/) in South Korea
-- 🤝 I’m opening to collaborate with anyone who interests in AI
-- 📃 I keep updating my research articles in scholar
 - 💻 I love working on AI and learning about new tech
+- 🤝 I’m opening to collaborate with anyone who interests in AI
+- [![OpenReview](https://img.shields.io/badge/OpenReview-Profile-8c1b13?style=flat&logo=openreview&logoColor=white)](https://openreview.net/profile?id=%7EDang_Thanh_Vu2) I keep updating my research here
+
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ka0Ri/Ka0Ri)](https://github.com/Ka0Ri/Ka0Ri)
